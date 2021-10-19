@@ -7,6 +7,6 @@ RESTAURANT WEBSITE – CASAMANIA Github
 <br>
  **Tools/Technologies:** PHP, Bootstrap, Mysql, Xampp, CSS, JavaScript, HTML.
 <br>
- Link : https://casamania.imfast.io/home.html
+ Link : https://casamania.netlify.app/
 
 In order to run the website, please click on the home.html page.
